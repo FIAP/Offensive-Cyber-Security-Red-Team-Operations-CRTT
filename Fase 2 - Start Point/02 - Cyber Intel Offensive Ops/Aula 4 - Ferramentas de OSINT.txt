@@ -1,0 +1,8 @@
+Aula 4 - Ferramentas de OSINT
+Fase 2 - Start Point
+Capítulo: Cyber Intel: Offensive Ops
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=515147&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=515155
+
+Obs.: links exigem login na plataforma FIAP.

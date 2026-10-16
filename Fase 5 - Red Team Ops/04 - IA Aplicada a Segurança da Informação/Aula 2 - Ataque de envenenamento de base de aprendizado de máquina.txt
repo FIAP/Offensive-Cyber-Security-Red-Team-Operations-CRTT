@@ -1,0 +1,8 @@
+Aula 2 - Ataque de envenenamento de base de aprendizado de máquina
+Fase 5 - Red Team Ops
+Capítulo: IA Aplicada a Segurança da Informação
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=574696&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=574701
+
+Obs.: links exigem login na plataforma FIAP.

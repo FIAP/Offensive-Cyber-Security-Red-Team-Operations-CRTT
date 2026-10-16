@@ -1,0 +1,8 @@
+Aula 1 - Fundamentos de Purple Team
+Fase 5 - Red Team Ops
+Capítulo: Purple Team Exercise
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=574688&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=574690
+
+Obs.: links exigem login na plataforma FIAP.

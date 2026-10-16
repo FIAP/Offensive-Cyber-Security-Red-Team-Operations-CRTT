@@ -1,0 +1,8 @@
+Aula 1 - Virtualizacão
+Fase 1 - Welcome To Cyber World
+Capítulo: Fundamental Skills for Red Teamer
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=494114&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=494120
+
+Obs.: links exigem login na plataforma FIAP.

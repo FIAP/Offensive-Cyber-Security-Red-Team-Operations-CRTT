@@ -1,0 +1,8 @@
+Aula 2 - Information Gathering
+Fase 3 - Penetration Testing
+Capítulo: Welcome to Offensive Security
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=531662&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=531670
+
+Obs.: links exigem login na plataforma FIAP.

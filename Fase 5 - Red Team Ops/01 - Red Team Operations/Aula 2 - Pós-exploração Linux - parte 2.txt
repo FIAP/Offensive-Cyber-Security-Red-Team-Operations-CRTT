@@ -1,0 +1,8 @@
+Aula 2 - Pós-exploração Linux - parte 2
+Fase 5 - Red Team Ops
+Capítulo: Red Team Operations
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=574668&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=574672
+
+Obs.: links exigem login na plataforma FIAP.

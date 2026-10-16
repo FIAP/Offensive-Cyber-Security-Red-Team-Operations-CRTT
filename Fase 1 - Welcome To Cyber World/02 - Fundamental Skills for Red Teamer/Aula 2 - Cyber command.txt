@@ -1,0 +1,8 @@
+Aula 2 - Cyber command
+Fase 1 - Welcome To Cyber World
+Capítulo: Fundamental Skills for Red Teamer
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=494115&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=494121
+
+Obs.: links exigem login na plataforma FIAP.
